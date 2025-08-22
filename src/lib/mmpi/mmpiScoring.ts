@@ -33,6 +33,12 @@ function calculateRawScore(
   const scale = scoringKeys[scaleId as keyof typeof scoringKeys];
   if (!scale) return 0;
   
+  // Mf ölçeği için cinsiyet zorunlu
+  if (scaleId === 'Mf' && !gender) {
+    console.warn('Mf ölçeği için cinsiyet bilgisi gerekli');
+    return 0;
+  }
+  
   let score = 0;
   
   // Doğru puanlanan sorular
