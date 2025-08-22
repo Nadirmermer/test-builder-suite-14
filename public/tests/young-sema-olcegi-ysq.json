@@ -1,0 +1,1126 @@
+{
+  "id": "young-sema-olcegi-ysq",
+  "testAdi": "Young Şema Ölçeği (YSQ)",
+  "kisaAciklama": "Kişinin 5 farklı şema alanındaki erken dönem uyumsuz şemalarını ve bu şemaların şiddetini ölçen bir kendini değerlendirme envanteridir.",
+  "kategori": "Şema Terapi",
+  "puanlamaTuru": "coklu_alt_olcek",
+  "talimatlar": "Aşağıda, kişilerin kendilerini tanımlarken kullandıkları ifadeler sıralanmıştır. Lütfen her bir ifadeyi okuyun ve sizi ne kadar iyi tanımladığına karar verin. Emin olamadığınız sorularda neyin doğru olabileceğinden çok, sizin duygusal olarak ne hissettiğinize dayanarak cevap verin. Lütfen 1'den 6'ya kadar olan seçeneklerden sizi en iyi tanımlayanı seçerek cevaplayınız.",
+  "sorular": [
+    {
+      "id": "1",
+      "metin": "Bana bakan, benimle zaman geçiren, başıma gelen olaylarla gerçekten ilgilenen kimsem olmadı.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "2",
+      "metin": "Beni terkedeceklerinden korktuğum için yakın olduğum insanların peşini bırakmam.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "3",
+      "metin": "İnsanların beni kullandıklarını hissediyorum",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "4",
+      "metin": "Uyumsuzum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "5",
+      "metin": "Beğendiğim hiçbir erkek/kadın, kusurlarımı görürse beni sevmez.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "6",
+      "metin": "İş (veya okul) hayatımda neredeyse hiçbir şeyi diğer insanlar kadar iyi yapamıyorum",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "7",
+      "metin": "Günlük yaşamımı tek başıma idare edebilme becerisine sahip olduğumu hissetmiyorum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "8",
+      "metin": "Kötü bir şey olacağı duygusundan kurtulamıyorum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "9",
+      "metin": "Anne babamdan ayrılmayı, bağımsız hareket edebilmeyi, yaşıtlarım kadar, başaramadım.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "10",
+      "metin": "Eğer istediğimi yaparsam, başımı derde sokarım diye düşünürüm.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "11",
+      "metin": "Genellikle yakınlarıma ilgi gösteren ve bakan ben olurum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "12",
+      "metin": "Olumlu duygularımı diğerlerine göstermekten utanırım (sevdiğimi, önemsediğimi göstermek gibi).",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "13",
+      "metin": "Yaptığım çoğu şeyde en iyi olmalıyım; ikinci olmayı kabullenemem.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "14",
+      "metin": "Diğer insanlardan bir şeyler istediğimde bana \"hayır\" denilmesini çok zor kabullenirim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "15",
+      "metin": "Kendimi sıradan ve sıkıcı işleri yapmaya zorlayamam.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "16",
+      "metin": "Paramın olması ve önemli insanlar tanıyor olmak beni değerli yapar.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "17",
+      "metin": "Her şey yolunda gidiyor görünse bile, bunun bozulacağını hissederim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "18",
+      "metin": "Eğer bir yanlış yaparsam, cezalandırılmayı hakkederim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "19",
+      "metin": "Çevremde bana sıcaklık, koruma ve duygusal yakınlık gösteren kimsem yok.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "20",
+      "metin": "Diğer insanlara o kadar muhtacım ki onları kaybedeceğim diye çok endişeleniyorum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "21",
+      "metin": "İnsanlara karşı tedbiri elden bırakamam yoksa bana kasıtlı olarak zarar vereceklerini hissederim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "22",
+      "metin": "Temel olarak diğer insanlardan farklıyım.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "23",
+      "metin": "Gerçek beni tanırlarsa beğendiğim hiç kimse bana yakın olmak istemez.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "24",
+      "metin": "İşleri halletmede son derece yetersizim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "25",
+      "metin": "Gündelik işlerde kendimi başkalarına bağımlı biri olarak görüyorum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "26",
+      "metin": "Her an bir felaket (doğal, adli, mali veya tıbbi) olabilir diye hissediyorum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "27",
+      "metin": "Annem, babam ve ben birbirimizin hayatı ve sorunlarıyla aşırı ilgili olmaya eğilimliyiz.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "28",
+      "metin": "Diğer insanların isteklerine uymaktan başka yolum yokmuş gibi hissediyorum; eğer böyle yapmazsam bir şekilde beni reddederler veya intikam alırlar.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "29",
+      "metin": "Başkalarını kendimden daha fazla düşündüğüm için ben iyi bir insanım.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "30",
+      "metin": "Duygularımı diğerlerine açmayı utanç verici bulurum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "31",
+      "metin": "En iyisini yapmalıyım, \"yeterince iyi\" ile yetinemem.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "32",
+      "metin": "Ben özel biriyim ve diğer insanlar için konulmuş olan kısıtlamaları veya sınırları kabul etmek zorunda değilim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "33",
+      "metin": "Eğer hedefime ulaşamazsam kolaylıkla yılgınlığa düşer ve vazgeçerim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "34",
+      "metin": "Başkalarının da farkında olduğu başarılar benim için en değerlisidir.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "35",
+      "metin": "İyi bir şey olursa, bunu kötü bir şeyin izleyeceğinden endişe ederim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "36",
+      "metin": "Eğer yanlış yaparsam, bunun özürü yoktur.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "37",
+      "metin": "Birisi için özel olduğumu hiç hissetmedim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "38",
+      "metin": "Yakınlarımın beni terk edeceği ya da ayrılacağından endişe duyarım",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "39",
+      "metin": "Herhangi bir anda birileri beni aldatmaya kalkışabilir.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "40",
+      "metin": "Bir yere ait değilim, yalnızım.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "41",
+      "metin": "Başkalarının sevgisine, ilgisine ve saygısına değer bir insan değilim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "42",
+      "metin": "İş ve başarı alanlarında birçok insan benden daha yeterli.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "43",
+      "metin": "Doğru ile yanlışı birbirinden ayırmakta zorlanırım.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "44",
+      "metin": "Fiziksel bir saldırıya uğramaktan endişe duyarım.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "45",
+      "metin": "Annem, babam ve ben özel hayatımız birbirimizden saklarsak, birbirimizi aldatmış hisseder veya suçluluk duyarız.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "46",
+      "metin": "İlişkilerimde, diğer kişinin yönlendirici olmasına izin veririm.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "47",
+      "metin": "Yakınlarımla o kadar meşgulüm ki kendime çok az zaman kalıyor.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "48",
+      "metin": "İnsanlarla beraberken içten ve cana yakın olmak benim için zordur.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "49",
+      "metin": "Tüm sorumluluklarımı yerine getirmek zorundayım.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "50",
+      "metin": "İstediğimi yapmaktan alıkonulmaktan veya kısıtlanmaktan nefret ederim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "51",
+      "metin": "Uzun vadeli amaçlara ulaşabilmek için şu andaki zevklerimden fedakarlık etmekte zorlanırım",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "52",
+      "metin": "Başkalarından yoğun bir ilgi görmezsem kendimi daha az önemli hissederim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "53",
+      "metin": "Yeterince dikkatli olmazsanız, neredeyse her zaman bir şeyler ters gider.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "54",
+      "metin": "Eğer işimi doğru yapmazsam sonuçlara katlanmam gerekir.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "55",
+      "metin": "Beni gerçekten dinleyen, anlayan veya benim gerçek ihtiyaçlarım ve duygularımı önemseyen kimsem olmadı.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "56",
+      "metin": "Önem verdiğim birisinin benden uzaklaştığını sezersem çok kötü hissederim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "57",
+      "metin": "Diğer insanların niyetleriyle ilgili oldukça şüpheciyimdir.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "58",
+      "metin": "Kendimi diğer insanlara uzak veya kopmuş hissediyorum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "59",
+      "metin": "Kendimi sevilebilecek biri gibi hissetmiyorum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "60",
+      "metin": "İş (okul) hayatımda diğer insanlar kadar yetenekli değilim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "61",
+      "metin": "Gündelik işlerde kendimi başkalarına bağımlı biri olarak görüyorum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "62",
+      "metin": "Tüm paramı kaybedip çok fakir veya zavallı duruma düşmekten endişe duyarım.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "63",
+      "metin": "Çoğunlukla annem ve babamın benimle iç içe yaşadığını  hissediyorum-Benim kendime ait bir    hayatım yok.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "64",
+      "metin": "Kendim için ne istediğimi bilmediğim için daima benim adıma diğer insanların karar vermesine izin veririm.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "65",
+      "metin": "Ben hep başkalarının sorunlarını dinleyen kişi oldum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "66",
+      "metin": "Kendimi o kadar kontrol ederim ki insanlar beni duygusuz veya hissiz bulurlar.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "67",
+      "metin": "Başarmak ve bir şeyler yapmak için sürekli bir baskı altındayım.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "68",
+      "metin": "Diğer insanların uyduğu kurallara ve geleneklere uymak zorunda olmadığımı hissediyorum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "69",
+      "metin": "Benim yararıma olduğunu bilsem bile hoşuma gitmeyen şeyleri yapmaya kendimi zorlayamam.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "70",
+      "metin": "Bir toplantıda fikrimi söylediğimde veya bir topluluğa tanıtıldığımda onaylanılmayı ve takdir görmeyi isterim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "71",
+      "metin": "Ne kadar çok çalışırsam çalışayım, maddi olarak iflas edeceğimden ve neredeyse her şeyimi kaybedeceğimden endişe ederim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "72",
+      "metin": "Neden yanlış yaptığımın önemi yoktur; eğer hata yaptıysam sonucuna da katlanmam gerekir.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "73",
+      "metin": "Hayatımda ne yapacağımı bilmediğim zamanlarda uygun bir öneride bulunacak veya beni yönlendirecek kimsem olmadı.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "74",
+      "metin": "İnsanların beni terk edeceği endişesiyle bazen onları kendimden uzaklaştırırım.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "75",
+      "metin": "Genellikle insanların asıl veya art niyetlerini araştırırım.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "76",
+      "metin": "Kendimi hep grupların dışında hissederim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "77",
+      "metin": "Kabul edilemeyecek pek çok özelliğim yüzünden insanlara kendimi açamıyorum veya beni tam olarak tanımalarına izin vermiyorum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "78",
+      "metin": "İş (okul) hayatımda diğer insanlar kadar zeki değilim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "79",
+      "metin": "Ortaya çıkan gündelik sorunları çözebilme konusunda kendime güvenmiyorum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "80",
+      "metin": "Bir doktor tarafından herhangi bir ciddi hastalık bulunmamasına rağmen bende ciddi bir hastalığın gelişmekte olduğu endişesine kapılıyorum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "81",
+      "metin": "Sık sık annemden babamdan ya da eşimden ayrı bir kimliğimin olmadığını hissediyorum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "82",
+      "metin": "Haklarıma saygı duyulmasını ve duygularımın hesaba katılmasını istemekte çok zorlanıyorum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "83",
+      "metin": "Başkaları beni, diğerleri için çok, kendim için az şey yapan biri olarak görüyorlar.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "84",
+      "metin": "Diğerleri beni duygusal olarak soğuk bulurlar.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "85",
+      "metin": "Kendimi sorumluluktan kolayca sıyıramıyorum veya hatalarım için gerekçe bulamıyorum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "86",
+      "metin": "Benim yaptıklarımın, diğer insanların katkılarından daha önemli olduğunu hissediyorum.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "87",
+      "metin": "Kararlarıma nadiren sadık kalabilirim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "88",
+      "metin": "Bir dolu övgü ve iltifat almam kendimi değerli birisi olarak hissetmemi sağlar.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "89",
+      "metin": "Yanlış bir kararın bir felakete yol açabileceğinden endişe ederim.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    },
+    {
+      "id": "90",
+      "metin": "Ben cezalandırılmayı hak eden kötü bir insanım.",
+      "secenekler": [
+        { "metin": "Benim için tamamıyla yanlış", "puan": 1 },
+        { "metin": "Benim için büyük ölçüde yanlış", "puan": 2 },
+        { "metin": "Bana uyan tarafı uymayan tarafından biraz fazla", "puan": 3 },
+        { "metin": "Benim için orta derecede doğru", "puan": 4 },
+        { "metin": "Benim için çoğunlukla doğru", "puan": 5 },
+        { "metin": "Beni mükemmel şekilde tanımlıyor", "puan": 6 }
+      ]
+    }
+  ],
+  "altOlcekler": {
+    "zedelenmis_otonomi": {
+      "ad": "Zedelenmiş Otonomi",
+      "sorular": ["7", "9", "10", "24", "25", "43", "61", "63", "79", "81"]
+    },
+    "kopukluk": {
+      "ad": "Kopukluk",
+      "sorular": ["1", "2", "3", "4", "5", "19", "20", "21", "22", "23", "37", "38", "39", "40", "41", "55", "56", "57", "58", "59", "73", "74", "75", "76", "77"]
+    },
+    "yuksek_standartlar": {
+      "ad": "Yüksek Standartlar",
+      "sorular": ["13", "14", "16", "31", "32", "34", "49", "50", "52", "67", "68", "70", "86", "88"]
+    },
+    "digeri_yonelimlilik": {
+      "ad": "Diğeri Yönelimlilik",
+      "sorular": ["11", "12", "28", "29", "30", "46", "47", "48", "64", "65", "66", "82", "83", "84"]
+    },
+    "zedelenmis_sinirlar": {
+      "ad": "Zedelenmiş Sınırlar",
+      "sorular": ["6", "8", "15", "17", "18", "26", "33", "35", "36", "42", "44", "51", "53", "54", "60", "62", "69", "71", "72", "78", "80", "85", "87", "89", "90"]
+    }
+  },
+  "sonucYorumlari": [
+    {
+      "aralik": [90, 200],
+      "yorum": "Düşük şema puanları - Erken dönem uyumsuz şemalarınız minimal düzeyde görünmektedir."
+    },
+    {
+      "aralik": [201, 350],
+      "yorum": "Orta düzey şema puanları - Bazı alanlarda orta düzeyde şema aktivasyonu gözlenmektedir."
+    },
+    {
+      "aralik": [351, 540],
+      "yorum": "Yüksek şema puanları - Birçok alanda belirgin şema aktivasyonu mevcut. Profesyonel değerlendirme önerilir."
+    }
+  ]
+}

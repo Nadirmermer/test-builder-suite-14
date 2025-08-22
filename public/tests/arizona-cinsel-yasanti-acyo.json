@@ -1,0 +1,158 @@
+{
+  "id": "arizona-cinsel-yasanti-acyo",
+  "testAdi": "Arizona Cinsel Yaşantılar Ölçeği (ACYÖ)",
+  "kisaAciklama": "Cinsel alanda yaşanan sorunları 5 madde ile kısa ve kolay bir biçimde taramayı ve saptamayı amaçlayan bir ölçektir.",
+  "talimatlar": "Bu ölçek BUGÜN de dahil GEÇEN HAFTAKİ cinsel yaşantınızı değerlendirmeniz için tasarlanmıştır. Her maddeyi dikkatlice okuyun ve size en uygun olan seçeneği işaretleyin. Lütfen tüm soruları cevaplayın.",
+  "kategori": "Cinsel İşlev Bozuklukları",
+  "sureDakika": 5,
+  "formTuru": "cinsiyete-ozel",
+  "sorular": [],
+  "formlar": {
+    "Kadın": [
+      {
+        "id": "k1",
+        "metin": "Cinsel açıdan ne derece isteklisiniz?",
+        "secenekler": [
+          { "metin": "Oldukça istekli", "puan": 1 },
+          { "metin": "Çok istekli", "puan": 2 },
+          { "metin": "Biraz istekli", "puan": 3 },
+          { "metin": "Biraz isteksiz", "puan": 4 },
+          { "metin": "Çok isteksiz", "puan": 5 },
+          { "metin": "Tamamen isteksiz", "puan": 6 }
+        ]
+      },
+      {
+        "id": "k2",
+        "metin": "Cinsel açıdan ne kadar kolay uyarılırsınız (tahrik olursunuz)?",
+        "secenekler": [
+          { "metin": "Oldukça kolay", "puan": 1 },
+          { "metin": "Çok kolay", "puan": 2 },
+          { "metin": "Biraz kolay", "puan": 3 },
+          { "metin": "Biraz zor", "puan": 4 },
+          { "metin": "Çok zor", "puan": 5 },
+          { "metin": "Oldukça zor", "puan": 6 }
+        ]
+      },
+      {
+        "id": "k3",
+        "metin": "Vajinanız/cinsel organınız ilişki sırasında ne kadar kolay ıslanır veya nemlenir?",
+        "secenekler": [
+          { "metin": "Oldukça kolay", "puan": 1 },
+          { "metin": "Çok kolay", "puan": 2 },
+          { "metin": "Biraz kolay", "puan": 3 },
+          { "metin": "Biraz zor", "puan": 4 },
+          { "metin": "Çok zor", "puan": 5 },
+          { "metin": "Asla olmaz", "puan": 6 }
+        ]
+      },
+      {
+        "id": "k4",
+        "metin": "Ne kadar kolay orgazm olursunuz?",
+        "secenekler": [
+          { "metin": "Oldukça kolay", "puan": 1 },
+          { "metin": "Çok kolay", "puan": 2 },
+          { "metin": "Biraz kolay", "puan": 3 },
+          { "metin": "Biraz zor", "puan": 4 },
+          { "metin": "Çok zor", "puan": 5 },
+          { "metin": "Asla boşalamam", "puan": 6 }
+        ]
+      },
+      {
+        "id": "k5",
+        "metin": "Orgazmınız tatmin edici midir?",
+        "secenekler": [
+          { "metin": "Oldukça tatmin edici", "puan": 1 },
+          { "metin": "Çok tatmin edici", "puan": 2 },
+          { "metin": "Biraz tatmin edici", "puan": 3 },
+          { "metin": "Pek tatmin etmiyor", "puan": 4 },
+          { "metin": "Çok tatmin etmiyor", "puan": 5 },
+          { "metin": "Orgazma ulaşamam", "puan": 6 }
+        ]
+      }
+    ],
+    "Erkek": [
+      {
+        "id": "e1",
+        "metin": "Cinsel açıdan ne derece isteklisiniz?",
+        "secenekler": [
+          { "metin": "Oldukça istekli", "puan": 1 },
+          { "metin": "Çok istekli", "puan": 2 },
+          { "metin": "Biraz istekli", "puan": 3 },
+          { "metin": "Biraz isteksiz", "puan": 4 },
+          { "metin": "Çok isteksiz", "puan": 5 },
+          { "metin": "Tamamen isteksiz", "puan": 6 }
+        ]
+      },
+      {
+        "id": "e2",
+        "metin": "Cinsel açıdan ne kadar kolay uyarılırsınız (tahrik olursunuz)?",
+        "secenekler": [
+          { "metin": "Oldukça kolay", "puan": 1 },
+          { "metin": "Çok kolay", "puan": 2 },
+          { "metin": "Biraz kolay", "puan": 3 },
+          { "metin": "Biraz zor", "puan": 4 },
+          { "metin": "Çok zor", "puan": 5 },
+          { "metin": "Oldukça zor", "puan": 6 }
+        ]
+      },
+      {
+        "id": "e3",
+        "metin": "Penisiniz / cinsel organınız kolayca sertleşir ve bu sertliğini sürdürür mü?",
+        "secenekler": [
+          { "metin": "Oldukça kolay", "puan": 1 },
+          { "metin": "Çok kolay", "puan": 2 },
+          { "metin": "Biraz kolay", "puan": 3 },
+          { "metin": "Biraz zor", "puan": 4 },
+          { "metin": "Çok zor", "puan": 5 },
+          { "metin": "Asla olmaz", "puan": 6 }
+        ]
+      },
+      {
+        "id": "e4",
+        "metin": "Ne kadar kolay boşalırsınız?",
+        "secenekler": [
+          { "metin": "Oldukça kolay", "puan": 1 },
+          { "metin": "Çok kolay", "puan": 2 },
+          { "metin": "Biraz kolay", "puan": 3 },
+          { "metin": "Biraz zor", "puan": 4 },
+          { "metin": "Çok zor", "puan": 5 },
+          { "metin": "Asla boşalamam", "puan": 6 }
+        ]
+      },
+      {
+        "id": "e5",
+        "metin": "Boşalmanız tatmin edici midir?",
+        "secenekler": [
+          { "metin": "Oldukça tatmin edici", "puan": 1 },
+          { "metin": "Çok tatmin edici", "puan": 2 },
+          { "metin": "Biraz tatmin edici", "puan": 3 },
+          { "metin": "Pek tatmin etmiyor", "puan": 4 },
+          { "metin": "Çok tatmin etmiyor", "puan": 5 },
+          { "metin": "Hiç boşalamam", "puan": 6 }
+        ]
+      }
+    ]
+  },
+  "sonucYorumlari": [
+    {
+      "aralik": [5, 10],
+      "yorum": "Cinsel yaşantınızda belirgin bir sorun görünmüyor. Sağlıklı bir cinsel işlevselliğiniz var gibi görünüyor.",
+      "seviye": "minimal"
+    },
+    {
+      "aralik": [11, 15],
+      "yorum": "Cinsel yaşantınızda hafif düzeyde sorunlar olabilir. Bu durum geçici olabilir, ancak dikkat etmekte fayda var. (Not: Türkçe versiyonunda kesme puanı 11 olarak belirlenmiştir.)",
+      "seviye": "hafif"
+    },
+    {
+      "aralik": [16, 20],
+      "yorum": "Cinsel işlevsellikte orta düzeyde zorluklar yaşıyor olabilirsiniz. Bir uzmana danışmayı düşünebilirsiniz.",
+      "seviye": "orta"
+    },
+    {
+      "aralik": [21, 30],
+      "yorum": "Cinsel yaşantınızda ciddi zorluklar olabilir. Bir sağlık uzmanına başvurmanız önerilir.",
+      "seviye": "siddetli"
+    }
+  ]
+}

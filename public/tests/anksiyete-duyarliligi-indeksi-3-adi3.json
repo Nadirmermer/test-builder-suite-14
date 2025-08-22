@@ -1,0 +1,232 @@
+{
+  "id": "anksiyete-duyarliligi-indeksi-3-adi3",
+  "testAdi": "Anksiyete Duyarlılığı İndeksi-3 (ADİ-3)",
+  "kisaAciklama": "Kişinin anksiyete belirtilerinden ve bu belirtilerin olası sonuçlarından ne ölçüde korktuğunu değerlendiren bir ölçektir.",
+  "kategori": "Anksiyete Bozuklukları",
+  "anahtar_kelimeler": ["anksiyete", "duyarlılık", "korku", "belirti"],
+  "sureDakika": 12,
+  "puanlamaTuru": "basit",
+  "talimatlar": "Lütfen her maddede sizin için en uygun olduğunu düşündüğünüz kutuyu işaretleyiniz. Eğer herhangi bir madde şimdiye kadar hiç yaşamadığınız bir şeyle ilgiliyse (örn. toplum içinde bayılmak), böyle bir deneyimi yaşamanız halinde nasıl hissedebileceğinizi temel alarak cevaplayınız. Bunun dışında, tüm maddeleri kendi deneyiminizi temel alarak cevaplayınız. Her madde için sadece bir kutuyu işaretlemeye dikkat ediniz ve lütfen tüm maddeleri cevaplayınız.",
+  "sorular": [
+    {
+      "id": "soru_1",
+      "metin": "Sinirli görünmemek benim için önemlidir.",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Çok Az", "puan": 1 },
+        { "metin": "Biraz", "puan": 2 },
+        { "metin": "Oldukça", "puan": 3 },
+        { "metin": "Çok Fazla", "puan": 4 }
+      ]
+    },
+    {
+      "id": "soru_2",
+      "metin": "Kafamı bir işe veremediğim zaman, aklımı kaçırıyorum diye endişelenirim.",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Çok Az", "puan": 1 },
+        { "metin": "Biraz", "puan": 2 },
+        { "metin": "Oldukça", "puan": 3 },
+        { "metin": "Çok Fazla", "puan": 4 }
+      ]
+    },
+    {
+      "id": "soru_3",
+      "metin": "Kalbimin hızlı çarpması beni korkutur.",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Çok Az", "puan": 1 },
+        { "metin": "Biraz", "puan": 2 },
+        { "metin": "Oldukça", "puan": 3 },
+        { "metin": "Çok Fazla", "puan": 4 }
+      ]
+    },
+    {
+      "id": "soru_4",
+      "metin": "Midem rahatsız olduğunda, ciddi bir hastalığım olabilir diye endişelenirim.",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Çok Az", "puan": 1 },
+        { "metin": "Biraz", "puan": 2 },
+        { "metin": "Oldukça", "puan": 3 },
+        { "metin": "Çok Fazla", "puan": 4 }
+      ]
+    },
+    {
+      "id": "soru_5",
+      "metin": "Zihnimi bir işe verememek beni korkutur.",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Çok Az", "puan": 1 },
+        { "metin": "Biraz", "puan": 2 },
+        { "metin": "Oldukça", "puan": 3 },
+        { "metin": "Çok Fazla", "puan": 4 }
+      ]
+    },
+    {
+      "id": "soru_6",
+      "metin": "Başkalarının yanında titrediğimde, insanların benim için neler düşüneceğinden korkarım.",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Çok Az", "puan": 1 },
+        { "metin": "Biraz", "puan": 2 },
+        { "metin": "Oldukça", "puan": 3 },
+        { "metin": "Çok Fazla", "puan": 4 }
+      ]
+    },
+    {
+      "id": "soru_7",
+      "metin": "Göğsüm sıkıştığında, düzgün bir şekilde soluk alamayacağımdan korkarım.",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Çok Az", "puan": 1 },
+        { "metin": "Biraz", "puan": 2 },
+        { "metin": "Oldukça", "puan": 3 },
+        { "metin": "Çok Fazla", "puan": 4 }
+      ]
+    },
+    {
+      "id": "soru_8",
+      "metin": "Göğsümde ağrı hissettiğimde, kalp krizi geçireceğim diye endişelenirim.",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Çok Az", "puan": 1 },
+        { "metin": "Biraz", "puan": 2 },
+        { "metin": "Oldukça", "puan": 3 },
+        { "metin": "Çok Fazla", "puan": 4 }
+      ]
+    },
+    {
+      "id": "soru_9",
+      "metin": "Diğer insanlar huzursuzluğumu fark edecek diye endişelenirim.",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Çok Az", "puan": 1 },
+        { "metin": "Biraz", "puan": 2 },
+        { "metin": "Oldukça", "puan": 3 },
+        { "metin": "Çok Fazla", "puan": 4 }
+      ]
+    },
+    {
+      "id": "soru_10",
+      "metin": "Kendimi tuhaf ya da boşlukta gibi hissettiğimde, ruhsal bir hastalığım olabileceğinden endişelenirim.",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Çok Az", "puan": 1 },
+        { "metin": "Biraz", "puan": 2 },
+        { "metin": "Oldukça", "puan": 3 },
+        { "metin": "Çok Fazla", "puan": 4 }
+      ]
+    },
+    {
+      "id": "soru_11",
+      "metin": "İnsanların önünde yüzümün kızarması beni korkutur.",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Çok Az", "puan": 1 },
+        { "metin": "Biraz", "puan": 2 },
+        { "metin": "Oldukça", "puan": 3 },
+        { "metin": "Çok Fazla", "puan": 4 }
+      ]
+    },
+    {
+      "id": "soru_12",
+      "metin": "Kalbimin teklediğini fark ettiğimde, bende ciddi bir sorun olabileceğinden endişelenirim.",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Çok Az", "puan": 1 },
+        { "metin": "Biraz", "puan": 2 },
+        { "metin": "Oldukça", "puan": 3 },
+        { "metin": "Çok Fazla", "puan": 4 }
+      ]
+    },
+    {
+      "id": "soru_13",
+      "metin": "Topluluk önünde terlemeye başladığımda, insanların hakkımda olumsuz düşünmelerinden korkarım.",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Çok Az", "puan": 1 },
+        { "metin": "Biraz", "puan": 2 },
+        { "metin": "Oldukça", "puan": 3 },
+        { "metin": "Çok Fazla", "puan": 4 }
+      ]
+    },
+    {
+      "id": "soru_14",
+      "metin": "Düşüncelerim hızlanır gibi olduğunda, aklımı kaçırıyorum diye endişelenirim.",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Çok Az", "puan": 1 },
+        { "metin": "Biraz", "puan": 2 },
+        { "metin": "Oldukça", "puan": 3 },
+        { "metin": "Çok Fazla", "puan": 4 }
+      ]
+    },
+    {
+      "id": "soru_15",
+      "metin": "Boğazım sıkılmış gibi hissettiğimde, boğularak öleceğimden endişelenirim.",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Çok Az", "puan": 1 },
+        { "metin": "Biraz", "puan": 2 },
+        { "metin": "Oldukça", "puan": 3 },
+        { "metin": "Çok Fazla", "puan": 4 }
+      ]
+    },
+    {
+      "id": "soru_16",
+      "metin": "Net (berrak biçimde) düşünmekte zorluk çekersem, bende bir sorun olabileceğinden endişelenirim.",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Çok Az", "puan": 1 },
+        { "metin": "Biraz", "puan": 2 },
+        { "metin": "Oldukça", "puan": 3 },
+        { "metin": "Çok Fazla", "puan": 4 }
+      ]
+    },
+    {
+      "id": "soru_17",
+      "metin": "Toplum içinde bayılmanın benim için korkunç bir şey olduğunu düşünürüm.",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Çok Az", "puan": 1 },
+        { "metin": "Biraz", "puan": 2 },
+        { "metin": "Oldukça", "puan": 3 },
+        { "metin": "Çok Fazla", "puan": 4 }
+      ]
+    },
+    {
+      "id": "soru_18",
+      "metin": "Zihnimde boşluk hissettiğimde, bende korkunç bir sorun olmasından endişelenirim.",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Çok Az", "puan": 1 },
+        { "metin": "Biraz", "puan": 2 },
+        { "metin": "Oldukça", "puan": 3 },
+        { "metin": "Çok Fazla", "puan": 4 }
+      ]
+    }
+  ],
+  "sonucYorumlari": [
+    { 
+      "aralik": [0, 20], 
+      "yorum": "Anksiyete duyarlılığınız düşük görünüyor.", 
+      "seviye": "minimal" 
+    },
+    { 
+      "aralik": [21, 40], 
+      "yorum": "Anksiyete duyarlılığınız orta seviyede. Anksiyete belirtileriyle başa çıkmak için rahatlama tekniklerini öğrenebilirsiniz.", 
+      "seviye": "orta" 
+    },
+    { 
+      "aralik": [41, 72], 
+      "yorum": "Anksiyete duyarlılığınız yüksek. Anksiyeteyle başa çıkmak için bir uzmandan yardım almayı düşünebilirsiniz.", 
+      "seviye": "siddetli" 
+    }
+  ],
+  "grafikTanimlari": {
+    "tip": "bar",
+    "baslik": "Anksiyete Duyarlılığı Düzeyi",
+    "veriAlanlari": ["puan"]
+  }
+}

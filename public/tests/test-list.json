@@ -1,0 +1,11 @@
+{
+  "tests": [
+    "beck-depresyon-envanteri-bde.json",
+    "beck-anksiyete-envanteri-bai.json",
+    "arizona-cinsel-yasanti-acyo.json",
+    "anksiyete-duyarliligi-indeksi-3-adi3.json",
+    "beck-umutsuzluk-olcegi-buo.json",
+    "beck-intihar-dusuncesi-olcegi-bido.json",
+    "young-sema-olcegi-ysq.json"
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "id": "beck-anksiyete-envanteri-bai",
+  "testAdi": "Beck Anksiyete Envanteri (BAI)",
+  "kisaAciklama": "Anksiyete belirtilerinin şiddetini ölçen, özellikle bedensel anksiyete belirtilerine odaklanan bir kendini değerlendirme ölçeğidir.",
+  "kategori": "Anksiyete Bozuklukları",
+  "anahtar_kelimeler": ["anksiyete", "bai", "beck", "kaygı", "endişe"],
+  "sureDakika": 10,
+  "talimatlar": "Aşağıda insanların kaygılı ya da endişeli oldukları zamanlarda yaşadıkları bazı belirtiler verilmiştir. Lütfen her maddeyi dikkatle okuyunuz. Daha sonra, bugün dâhil son bir (1) hafta içinde, aşağıda maddeler halinde sıralanmış belirtilerin sizi ne kadar rahatsız ettiğini uygun yeri işaretleyerek belirleyiniz.",
+  "sorular": [
+    {
+      "id": "soru_1",
+      "metin": "Bedeninizin herhangi bir yerinde uyuşma veya karıncalanma",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_2",
+      "metin": "Sıcaklık dalgaları",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_3",
+      "metin": "Bacaklarda halsizlik, titreme",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_4",
+      "metin": "Rahatlamakta zorlanma",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_5",
+      "metin": "En kötü şeylerin olacağı korkusu",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_6",
+      "metin": "Baş dönmesi veya sersemlik",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_7",
+      "metin": "Kalp çarpıntısı",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_8",
+      "metin": "Dengeyi kaybetme",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_9",
+      "metin": "Korkuya kapılma",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_10",
+      "metin": "Sinirlilik",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_11",
+      "metin": "Boğuluyormuş gibi hissetme",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_12",
+      "metin": "Ellerde titreme",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_13",
+      "metin": "Titreklik",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_14",
+      "metin": "Kontrolü kaybetme korkusu",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_15",
+      "metin": "Nefes almakta güçlük",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_16",
+      "metin": "Ölme korkusu",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_17",
+      "metin": "Korkulu olma",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_18",
+      "metin": "Sindirim sistemi sorunları",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_19",
+      "metin": "Bayılacak gibi hissetme",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_20",
+      "metin": "Yüzde kızarma",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_21",
+      "metin": "Sıcak ya da soğuk ter basması",
+      "secenekler": [
+        { "metin": "Hiç", "puan": 0 },
+        { "metin": "Hafif - Beni pek etkilemedi", "puan": 1 },
+        { "metin": "Orta - Hoş değildi ama katlanabildim", "puan": 2 },
+        { "metin": "Ciddi - Dayanmakta çok zorlandım", "puan": 3 }
+      ]
+    }
+  ],
+  "sonucYorumlari": [
+    { 
+      "aralik": [0, 21], 
+      "yorum": "Anksiyete düzeyiniz düşük.", 
+      "seviye": "minimal",
+      "oneri": "Anksiyete belirtileriniz minimal düzeyde. Normal aralıkta bulunuyorsunuz."
+    },
+    { 
+      "aralik": [22, 35], 
+      "yorum": "Orta düzeyde anksiyete.", 
+      "seviye": "orta",
+      "oneri": "Orta düzeyde anksiyete belirtileriniz var. Stres yönetimi teknikleri öğrenmeniz faydalı olabilir."
+    },
+    { 
+      "aralik": [36, 63], 
+      "yorum": "Yüksek düzeyde anksiyete.", 
+      "seviye": "yuksek",
+      "oneri": "Yüksek düzeyde anksiyete belirtileriniz var. Bir ruh sağlığı uzmanından destek almanız önerilir."
+    }
+  ],
+  "grafikTanimlari": {
+    "tip": "bar",
+    "baslik": "Anksiyete Belirti Düzeyi",
+    "veriAlanlari": ["puan"]
+  }
+}

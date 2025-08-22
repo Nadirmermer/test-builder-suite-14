@@ -1,0 +1,113 @@
+{
+  "id": "beck-umutsuzluk-olcegi-buo",
+  "testAdi": "Beck Umutsuzluk Ölçeği",
+  "kisaAciklama": "Kişinin geleceğe yönelik olumsuz beklentilerini ve umutsuzluk düzeyini ölçen bir kendini değerlendirme ölçeğidir.",
+  "kategori": "Duygudurum Bozuklukları",
+  "anahtar_kelimeler": ["umutsuzluk", "gelecek", "duygudurum", "depresyon"],
+  "sureDakika": 8,
+  "talimatlar": "Lütfen her bir ifadeyi okuyarak size uygun olan seçeneği işaretleyiniz.",
+  "sorular": [
+    {
+      "id": "soru_1",
+      "metin": "Gelecekte beni mutlu eden bir şey olmayacak.",
+      "secenekler": [
+        { "metin": "Katılmıyorum", "puan": 0 },
+        { "metin": "Katılıyorum", "puan": 1 }
+      ]
+    },
+    {
+      "id": "soru_2",
+      "metin": "Hayatımın geleceği umut verici değil.",
+      "secenekler": [
+        { "metin": "Katılmıyorum", "puan": 0 },
+        { "metin": "Katılıyorum", "puan": 1 }
+      ]
+    },
+    {
+      "id": "soru_3",
+      "metin": "İleriye dönük bir şey planlamak beni korkutuyor.",
+      "secenekler": [
+        { "metin": "Katılmıyorum", "puan": 0 },
+        { "metin": "Katılıyorum", "puan": 1 }
+      ]
+    },
+    {
+      "id": "soru_4",
+      "metin": "Gelecekte işlerimin daha iyiye gideceğine inanmıyorum.",
+      "secenekler": [
+        { "metin": "Katılmıyorum", "puan": 0 },
+        { "metin": "Katılıyorum", "puan": 1 }
+      ]
+    },
+    {
+      "id": "soru_5",
+      "metin": "Gelecekte karşılaşacağım sorunların üstesinden gelebileceğime inanmıyorum.",
+      "secenekler": [
+        { "metin": "Katılmıyorum", "puan": 0 },
+        { "metin": "Katılıyorum", "puan": 1 }
+      ]
+    },
+    {
+      "id": "soru_6",
+      "metin": "Hiçbir şey yapma motivasyonum yok.",
+      "secenekler": [
+        { "metin": "Katılmıyorum", "puan": 0 },
+        { "metin": "Katılıyorum", "puan": 1 }
+      ]
+    },
+    {
+      "id": "soru_7",
+      "metin": "Hayatımda bir şeyleri değiştirme gücüm olduğunu hissetmiyorum.",
+      "secenekler": [
+        { "metin": "Katılmıyorum", "puan": 0 },
+        { "metin": "Katılıyorum", "puan": 1 }
+      ]
+    },
+    {
+      "id": "soru_8",
+      "metin": "Gelecekte başarısız olacağımı düşünüyorum.",
+      "secenekler": [
+        { "metin": "Katılmıyorum", "puan": 0 },
+        { "metin": "Katılıyorum", "puan": 1 }
+      ]
+    },
+    {
+      "id": "soru_9",
+      "metin": "Geleceğimde güzel şeyler olacağına dair hiçbir beklentim yok.",
+      "secenekler": [
+        { "metin": "Katılmıyorum", "puan": 0 },
+        { "metin": "Katılıyorum", "puan": 1 }
+      ]
+    },
+    {
+      "id": "soru_10",
+      "metin": "Geleceğimdeki zorluklarla başa çıkmak için bir umudum yok.",
+      "secenekler": [
+        { "metin": "Katılmıyorum", "puan": 0 },
+        { "metin": "Katılıyorum", "puan": 1 }
+      ]
+    }
+  ],
+  "sonucYorumlari": [
+    { 
+      "aralik": [0, 3], 
+      "yorum": "Umutsuzluk düzeyiniz düşük. Genel olarak geleceğe pozitif bir bakış açınız var.",
+      "seviye": "minimal" 
+    },
+    { 
+      "aralik": [4, 6], 
+      "yorum": "Umutsuzluk düzeyiniz orta. Bazı durumlarda geleceğe dair endişeleriniz olabilir, ancak bu yönetilebilir görünüyor.",
+      "seviye": "orta" 
+    },
+    { 
+      "aralik": [7, 10], 
+      "yorum": "Umutsuzluk düzeyiniz yüksek. Bu durum, günlük yaşamınızı etkiliyorsa bir uzmandan destek almayı düşünebilirsiniz.",
+      "seviye": "siddetli" 
+    }
+  ],
+  "grafikTanimlari": {
+    "tip": "bar",
+    "baslik": "Umutsuzluk Düzeyi",
+    "veriAlanlari": ["puan"]
+  }
+}

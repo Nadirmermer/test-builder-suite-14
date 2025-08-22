@@ -1,0 +1,222 @@
+{
+  "id": "beck-intihar-dusuncesi-olcegi-bido",
+  "testAdi": "Beck İntihar Düşüncesi Ölçeği",
+  "kisaAciklama": "Bireyin intihar düşüncelerinin ve tasarılarının şiddetini ve özelliklerini 5 ana boyutta değerlendiren, uzman tarafından uygulanan bir ölçektir.",
+  "kategori": "Duygudurum Bozuklukları",
+  "anahtar_kelimeler": ["intihar", "düşünce", "değerlendirme", "uzman", "görüşme"],
+  "sureDakika": 20,
+  "talimatlar": "Bu ölçek, danışanın intihar düşüncelerini ve planlarını değerlendirmek için bir görüşme kılavuzudur. Lütfen her bir madde için danışanın durumunu en iyi yansıtan seçeneği işaretleyiniz. Her madde 0, 1 veya 2 olarak puanlanmaktadır.",
+  "sorular": [
+    {
+      "id": "soru_1",
+      "metin": "BÖLÜM I: Yaşam / Ölüme Dair Tutumun Özellikleri - Yaşama arzusu:",
+      "secenekler": [
+        { "metin": "Orta veya şiddetli", "puan": 0 },
+        { "metin": "Zayıf", "puan": 1 },
+        { "metin": "Yok", "puan": 2 }
+      ]
+    },
+    {
+      "id": "soru_2",
+      "metin": "Ölme arzusu:",
+      "secenekler": [
+        { "metin": "Yok", "puan": 0 },
+        { "metin": "Zayıf", "puan": 1 },
+        { "metin": "Orta veya şiddetli", "puan": 2 }
+      ]
+    },
+    {
+      "id": "soru_3",
+      "metin": "Yaşam / Ölüm için Nedenler:",
+      "secenekler": [
+        { "metin": "Yaşam ölümden ağır basmakta", "puan": 0 },
+        { "metin": "Yaşam ve ölüm için nedenler eşit", "puan": 1 },
+        { "metin": "Ölmek yaşamaktan ağır basıyor", "puan": 2 }
+      ]
+    },
+    {
+      "id": "soru_4",
+      "metin": "Aktif intihar girişiminde bulunma arzusu:",
+      "secenekler": [
+        { "metin": "Yok", "puan": 0 },
+        { "metin": "Zayıf", "puan": 1 },
+        { "metin": "Orta veya şiddetli", "puan": 2 }
+      ]
+    },
+    {
+      "id": "soru_5",
+      "metin": "Pasif İntihar girişimi:",
+      "secenekler": [
+        { "metin": "Yaşamı korumak için intihar girişimi", "puan": 0 },
+        { "metin": "Yaşamayı ölmeyi şansa bırakabilir", "puan": 1 },
+        { "metin": "Hayatını korumak ve sürdürmek için önlemlerden kaçınma", "puan": 2 }
+      ]
+    },
+    {
+      "id": "soru_6",
+      "metin": "BÖLÜM II: İntihar Düşüncesi / Arzusu Karakteristiği - Zaman boyutu: Süresi:",
+      "secenekler": [
+        { "metin": "Kısa ve geçici dönemler", "puan": 0 },
+        { "metin": "Uzun dönemler", "puan": 1 },
+        { "metin": "Kronik veya hemen daima sürekli", "puan": 2 }
+      ]
+    },
+    {
+      "id": "soru_7",
+      "metin": "Zaman boyutu: Sıklık:",
+      "secenekler": [
+        { "metin": "Nadiren", "puan": 0 },
+        { "metin": "Aralıklı", "puan": 1 },
+        { "metin": "Sebat eden veya süregen", "puan": 2 }
+      ]
+    },
+    {
+      "id": "soru_8",
+      "metin": "Düşünce ve Arzuya karşı tutum:",
+      "secenekler": [
+        { "metin": "Kabul etmeyen", "puan": 0 },
+        { "metin": "Ambivalan, tepkisiz", "puan": 1 },
+        { "metin": "Kabul eden", "puan": 2 }
+      ]
+    },
+    {
+      "id": "soru_9",
+      "metin": "İntihar davranışını / Acting out'u kontrol etme arzusu:",
+      "secenekler": [
+        { "metin": "Kontrol etme duygusu mevcut", "puan": 0 },
+        { "metin": "Kontrol edeceğinden emin değil", "puan": 1 },
+        { "metin": "Kontrol etme duygusu yok", "puan": 2 }
+      ]
+    },
+    {
+      "id": "soru_10",
+      "metin": "Aktif girişimden caydıran etmenler (din, aile, vb.):",
+      "secenekler": [
+        { "metin": "Caydırıcılar sebebi ile intihar etmeme", "puan": 0 },
+        { "metin": "Caydırıcılar hakkında biraz ilgi gösterme", "puan": 1 },
+        { "metin": "Caydırıcılar hakkında hiç ya da minimal ilgi taşıma", "puan": 2 }
+      ]
+    },
+    {
+      "id": "soru_11",
+      "metin": "Düşünülen girişim için sebep:",
+      "secenekler": [
+        { "metin": "Çevreyi etkilemek, dikkat çekmek, intikam", "puan": 0 },
+        { "metin": "0 ve 2'nin kombinasyonu", "puan": 1 },
+        { "metin": "Problemden kaçma, çözmek, tamamen sona erdirmek", "puan": 2 }
+      ]
+    },
+    {
+      "id": "soru_12",
+      "metin": "BÖLÜM III: Tasarlanan Girişimin Özellikleri - Yöntem: Özgüllük ve Planlama:",
+      "secenekler": [
+        { "metin": "Dikkate alınmama", "puan": 0 },
+        { "metin": "Dikkate alınmış fakat detaylar çalışılmamış", "puan": 1 },
+        { "metin": "Detaylar çalışılmış ve çok iyi planlanmış", "puan": 2 }
+      ]
+    },
+    {
+      "id": "soru_13",
+      "metin": "Yöntem: Erişilebilirlik:",
+      "secenekler": [
+        { "metin": "Yönteme ulaşılamıyor, fırsat yok", "puan": 0 },
+        { "metin": "Yöntem zaman ve çaba istiyor, fırsat gerçekten yok", "puan": 1 },
+        { "metin": "Yöntem ve fırsata erişilebilir VEYA gelecekte fırsat önceden tahmin edilebilir", "puan": 2 }
+      ]
+    },
+    {
+      "id": "soru_14",
+      "metin": "Girişimi gerçekleştirme yeteneğine ilişkin duyumları olması:",
+      "secenekler": [
+        { "metin": "Cesaret yok, korkmuş, çok zayıf, yeteneksiz", "puan": 0 },
+        { "metin": "Cesaret konusunda emin değil, yeteneği var", "puan": 1 },
+        { "metin": "Yeteneği ve cesareti var", "puan": 2 }
+      ]
+    },
+    {
+      "id": "soru_15",
+      "metin": "Gerçek girişimin beklentisi / öngörüsü:",
+      "secenekler": [
+        { "metin": "Yok", "puan": 0 },
+        { "metin": "Belirsiz, emin değil", "puan": 1 },
+        { "metin": "Evet", "puan": 2 }
+      ]
+    },
+    {
+      "id": "soru_16",
+      "metin": "BÖLÜM IV: Tasarlanan Girişimin Gerçekleştirilmesi - Gerçek Hazırlık:",
+      "secenekler": [
+        { "metin": "Yok", "puan": 0 },
+        { "metin": "Kısmen", "puan": 1 },
+        { "metin": "Tam", "puan": 2 }
+      ]
+    },
+    {
+      "id": "soru_17",
+      "metin": "İntihar Notu:",
+      "secenekler": [
+        { "metin": "Yok", "puan": 0 },
+        { "metin": "Başlamış fakat tamamlamamış ya da sadece düşüncede", "puan": 1 },
+        { "metin": "Tamamlamış, bırakmış", "puan": 2 }
+      ]
+    },
+    {
+      "id": "soru_18",
+      "metin": "Ölüm beklentisi içinde yapılan son hareketler:",
+      "secenekler": [
+        { "metin": "Yok", "puan": 0 },
+        { "metin": "Düşünmüş ve bazı düzenlemeler yapmış", "puan": 1 },
+        { "metin": "Kesin planlar yapmış ya da düzenlemeleri tamamlamış", "puan": 2 }
+      ]
+    },
+    {
+      "id": "soru_19",
+      "metin": "Tasarlanan girişimin gizlenmesi ya da aldatıcı bir tavır sergilenmesi:",
+      "secenekler": [
+        { "metin": "Tasarıları açıkça belli etmek", "puan": 0 },
+        { "metin": "Açıklamaktan çekinmek", "puan": 1 },
+        { "metin": "Yalan söyleme, aldatma, gizli tutma girişimlerinde bulunur", "puan": 2 }
+      ]
+    },
+    {
+      "id": "soru_20",
+      "metin": "BÖLÜM V: Arka Plan Faktörleri (PUANA DAHİL EDİLMEZ) - Önceki intihar girişimi:",
+      "secenekler": [
+        { "metin": "Yok", "puan": 0 },
+        { "metin": "1", "puan": 0 },
+        { "metin": "Birden fazla", "puan": 0 }
+      ]
+    },
+    {
+      "id": "soru_21",
+      "metin": "Son girişimle ilgili ölme eğilimi:",
+      "secenekler": [
+        { "metin": "Düşük", "puan": 0 },
+        { "metin": "Orta derecede, ikilemli, emin değil", "puan": 0 },
+        { "metin": "Yüksek", "puan": 0 }
+      ]
+    }
+  ],
+  "sonucYorumlari": [
+    { 
+      "aralik": [0, 12], 
+      "yorum": "Düşük seviye intihar düşüncesi. Puanın düşük olması intihar riskinin minimal olduğunu göstermektedir.",
+      "seviye": "minimal" 
+    },
+    { 
+      "aralik": [13, 25], 
+      "yorum": "Orta seviye intihar düşüncesi. Yakın takip gerektirebilir.",
+      "seviye": "orta" 
+    },
+    { 
+      "aralik": [26, 38], 
+      "yorum": "Yüksek seviye intihar düşüncesi. Puanın yüksek olması intihar düşüncesinin belirgin ve ciddi olması anlamına gelmektedir. Acil müdahale gerektirebilir.",
+      "seviye": "siddetli" 
+    }
+  ],
+  "grafikTanimlari": {
+    "tip": "bar",
+    "baslik": "İntihar Düşüncesi Seviyesi",
+    "veriAlanlari": ["puan"]
+  }
+}

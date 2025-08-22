@@ -1,0 +1,252 @@
+{
+  "id": "beck-depresyon-envanteri-bde",
+  "testAdi": "Beck Depresyon Envanteri (BDE)",
+  "kisaAciklama": "Kişideki depresyon riskini, depresif belirtilerin düzeyini ve şiddetini ölçen bir kendini değerlendirme ölçeğidir.",
+  "kategori": "Duygudurum Bozuklukları",
+  "anahtar_kelimeler": ["depresyon", "bde", "beck", "duygudurum", "üzüntü"],
+  "sureDakika": 15,
+  "talimatlar": "Aşağıda, kişilerin ruh durumlarını ifade ederken kullandıkları bazı cümleler verilmiştir. Her madde, bir çeşit ruh durumunu anlatmaktadır. Her maddede o durumun derecesini belirleyen 4 seçenek vardır. Lütfen bu seçenekleri dikkatle okuyunuz. Son bir hafta içindeki (şu an dahil) kendi ruh durumunuzu göz önünde bulundurarak, size en uygun olan ifadeyi işaretleyiniz.",
+  "sorular": [
+    {
+      "id": "soru_1",
+      "metin": "Üzüntü",
+      "secenekler": [
+        { "metin": "Kendimi üzgün hissetmiyorum.", "puan": 0 },
+        { "metin": "Kendimi üzgün hissediyorum.", "puan": 1 },
+        { "metin": "Her zaman için üzgünüm ve kendimi bu duygudan kurtaramıyorum.", "puan": 2 },
+        { "metin": "Öylesine üzgün ve mutsuzum ki dayanamıyorum.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_2",
+      "metin": "Karamsarlık",
+      "secenekler": [
+        { "metin": "Gelecekten umutsuz değilim.", "puan": 0 },
+        { "metin": "Gelecek konusunda umutsuzum.", "puan": 1 },
+        { "metin": "Gelecekten beklediğim hiçbir şey yok.", "puan": 2 },
+        { "metin": "Benim için gelecek olmadığı gibi bu durum düzelmeyecek.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_3",
+      "metin": "Geçmiş Başarısızlık",
+      "secenekler": [
+        { "metin": "Kendimi başarısız görmüyorum.", "puan": 0 },
+        { "metin": "Herkesten daha fazla başarısızlıklarım oldu sayılır.", "puan": 1 },
+        { "metin": "Geriye dönüp baktığımda, pek çok başarısızlıklarımın olduğunu görüyorum.", "puan": 2 },
+        { "metin": "Kendimi bir insan olarak tümüyle başarısız görüyorum.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_4",
+      "metin": "Memnuniyetsizlik",
+      "secenekler": [
+        { "metin": "Her şeyden eskisi kadar zevk alabiliyorum.", "puan": 0 },
+        { "metin": "Her şeyden eskisi kadar zevk alamıyorum.", "puan": 1 },
+        { "metin": "Artık hiçbir şeyden gerçek bir zevk alamıyorum.", "puan": 2 },
+        { "metin": "Beni doyuran hiçbir şey yok. Her şey çok can sıkıcı.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_5",
+      "metin": "Suçluluk Duyguları",
+      "secenekler": [
+        { "metin": "Kendimi suçlu hissetmiyorum.", "puan": 0 },
+        { "metin": "Arada bir kendimi suçlu hissettiğim oluyor.", "puan": 1 },
+        { "metin": "Kendimi çoğunlukla suçlu hissediyorum.", "puan": 2 },
+        { "metin": "Kendimi her an için suçlu hissediyorum.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_6",
+      "metin": "Cezalandırılma Duyguları",
+      "secenekler": [
+        { "metin": "Cezalandırılıyormuşum gibi duygular içinde değilim.", "puan": 0 },
+        { "metin": "Sanki, bazı şeyler için cezalandırılabilirmişim gibi duygular içindeyim.", "puan": 1 },
+        { "metin": "Cezalandırılacakmışım gibi duygular yaşıyorum.", "puan": 2 },
+        { "metin": "Bazı şeyler için cezalandırılıyorum.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_7",
+      "metin": "Kendinden Hoşnutsuzluk",
+      "secenekler": [
+        { "metin": "Kendimi hayal kırıklığına uğratmadım.", "puan": 0 },
+        { "metin": "Kendimi hayal kırıklığına uğrattım.", "puan": 1 },
+        { "metin": "Kendimden hiç hoşlanmıyorum.", "puan": 2 },
+        { "metin": "Kendimden nefret ediyorum.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_8",
+      "metin": "Kendini Suçlama",
+      "secenekler": [
+        { "metin": "Kendimi diğer insanlardan daha kötü durumda görmüyorum.", "puan": 0 },
+        { "metin": "Kendimi zayıflıklarım ve hatalarım için eleştiriyorum.", "puan": 1 },
+        { "metin": "Kendimi hatalarım için her zaman suçluyorum.", "puan": 2 },
+        { "metin": "Her kötü olayda kendimi suçluyorum.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_9",
+      "metin": "İntihar Düşünceleri",
+      "secenekler": [
+        { "metin": "Kendimi öldürmek gibi düşüncelerim yok.", "puan": 0 },
+        { "metin": "Bazen, kendimi öldürmeyi düşünüyorum ama böyle bir şeyi yapamam.", "puan": 1 },
+        { "metin": "Kendimi öldürebilmeyi çok isterdim.", "puan": 2 },
+        { "metin": "Eğer fırsatını bulursam kendimi öldürürüm.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_10",
+      "metin": "Ağlama",
+      "secenekler": [
+        { "metin": "Herkesten daha fazla ağladığımı sanmıyorum.", "puan": 0 },
+        { "metin": "Eskisine göre şimdilerde daha çok ağlıyorum.", "puan": 1 },
+        { "metin": "Şimdilerde her an ağlıyorum.", "puan": 2 },
+        { "metin": "Eskiden ağlayabilirdim. Şimdilerde istesem de ağlayamıyorum.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_11",
+      "metin": "Tedirginlik",
+      "secenekler": [
+        { "metin": "Eskisine göre daha sinirli veya tedirgin sayılmam.", "puan": 0 },
+        { "metin": "Her zamankinden biraz daha fazla tedirginim.", "puan": 1 },
+        { "metin": "Çoğu zaman sinirli ve tedirginim.", "puan": 2 },
+        { "metin": "Şimdilerde her an için tedirgin ve sinirliyim.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_12",
+      "metin": "Sosyal İlgi Kaybı",
+      "secenekler": [
+        { "metin": "Diğer insanlara karşı ilgimi kaybetmedim.", "puan": 0 },
+        { "metin": "Eskisine göre insanlarla daha az ilgiliyim.", "puan": 1 },
+        { "metin": "Diğer insanlara karşı ilgimin çoğunu kaybettim.", "puan": 2 },
+        { "metin": "Diğer insanlara karşı hiç ilgim kalmadı.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_13",
+      "metin": "Kararsızlık",
+      "secenekler": [
+        { "metin": "Eskisi gibi rahat ve kolay kararlar verebiliyorum.", "puan": 0 },
+        { "metin": "Eskisine kıyasla, şimdilerde karar vermeyi daha çok erteliyorum.", "puan": 1 },
+        { "metin": "Eskisine göre, karar vermekte oldukça güçlük çekiyorum.", "puan": 2 },
+        { "metin": "Artık hiç karar veremiyorum.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_14",
+      "metin": "Beden İmajı",
+      "secenekler": [
+        { "metin": "Eskisinden daha kötü bir dış görünüşüm olduğunu sanmıyorum.", "puan": 0 },
+        { "metin": "Sanki yaşlanmış ve çekiciliğimi kaybetmişim gibi düşünüyor ve üzülüyorum.", "puan": 1 },
+        { "metin": "Dış görünüşümde artık değiştirilmesi mümkün olmayan ve beni çirkinleştiren değişiklikler olduğunu hissediyorum.", "puan": 2 },
+        { "metin": "Çok çirkin olduğumu düşünüyorum.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_15",
+      "metin": "Çalışma Kapasitesi",
+      "secenekler": [
+        { "metin": "Eskisi kadar iyi çalışabiliyorum.", "puan": 0 },
+        { "metin": "Bir işe başlayabilmek için eskisine göre daha fazla çaba harcıyorum.", "puan": 1 },
+        { "metin": "Ne iş olursa olsun, yapabilmek için kendimi çok zorluyorum.", "puan": 2 },
+        { "metin": "Hiç çalışamıyorum.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_16",
+      "metin": "Uyku Bozuklukları",
+      "secenekler": [
+        { "metin": "Eskisi kadar rahat ve kolay uyuyabiliyorum.", "puan": 0 },
+        { "metin": "Şimdilerde eskisi kadar kolay ve rahat uyuyamıyorum.", "puan": 1 },
+        { "metin": "Eskisine göre 1 veya 2 saat erken uyanıyor ve tekrar uyumakta güçlük çekiyorum.", "puan": 2 },
+        { "metin": "Eskisine göre çok erken uyanıyor ve tekrar uyuyamıyorum.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_17",
+      "metin": "Yorgunluk",
+      "secenekler": [
+        { "metin": "Eskisine göre daha çabuk yorulduğumu sanmıyorum.", "puan": 0 },
+        { "metin": "Eskisinden daha çabuk ve kolay yoruluyorum.", "puan": 1 },
+        { "metin": "Şimdilerde neredeyse her şeyden kolay ve çabuk yoruluyorum.", "puan": 2 },
+        { "metin": "Artık hiçbir şey yapamayacak kadar yoruluyorum.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_18",
+      "metin": "İştah Kaybı",
+      "secenekler": [
+        { "metin": "İştahım eskisinden pek farklı değil.", "puan": 0 },
+        { "metin": "İştahım eskisi kadar iyi değil.", "puan": 1 },
+        { "metin": "Şimdilerde iştahım epey kötü.", "puan": 2 },
+        { "metin": "Artık hiç iştahım yok.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_19",
+      "metin": "Kilo Kaybı",
+      "secenekler": [
+        { "metin": "Son zamanlarda pek kilo kaybettiğimi sanmıyorum.", "puan": 0 },
+        { "metin": "Son zamanlarda istemediğim halde iki buçuk kilodan fazla kaybettim.", "puan": 1 },
+        { "metin": "Son zamanlarda beş kilodan fazla kaybettim.", "puan": 2 },
+        { "metin": "Son zamanlarda yedi buçuk kilodan fazla kaybettim.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_20",
+      "metin": "Bedensel Kaygılar",
+      "secenekler": [
+        { "metin": "Sağlığım beni pek endişelendirmiyor.", "puan": 0 },
+        { "metin": "Son zamanlarda ağrı, sızı, mide bozukluğu, kabızlık gibi sıkıntılarım var.", "puan": 1 },
+        { "metin": "Ağrı, sızı gibi bu sıkıntılarım beni epey endişelendirdiği için başka şeyleri düşünmek zor geliyor.", "puan": 2 },
+        { "metin": "Bu tür sıkıntılar beni öylesine endişelendiriyor ki, artık başka şeyleri düşünemiyorum.", "puan": 3 }
+      ]
+    },
+    {
+      "id": "soru_21",
+      "metin": "Libido",
+      "secenekler": [
+        { "metin": "Son zamanlarda cinsel yaşantımda dikkatimi çeken bir şey yok.", "puan": 0 },
+        { "metin": "Eskisine göre cinsel konularla daha az ilgileniyorum.", "puan": 1 },
+        { "metin": "Şimdilerde cinsellikle pek ilgili değilim.", "puan": 2 },
+        { "metin": "Cinsellik konusunda hiç ilgim kalmadı.", "puan": 3 }
+      ]
+    }
+  ],
+  "sonucYorumlari": [
+    { 
+      "aralik": [0, 9], 
+      "yorum": "Normal düzey.", 
+      "seviye": "minimal",
+      "oneri": "Depresyon belirtileriniz minimal düzeyde. Ancak endişeleriniz varsa bir uzmana danışabilirsiniz."
+    },
+    { 
+      "aralik": [10, 18], 
+      "yorum": "Hafif düzeyde depresyon belirtisi.", 
+      "seviye": "hafif",
+      "oneri": "Hafif depresyon belirtileriniz var. Destek almanız faydalı olabilir."
+    },
+    { 
+      "aralik": [19, 29], 
+      "yorum": "Orta düzeyde depresyon.", 
+      "seviye": "orta",
+      "oneri": "Orta düzeyde depresyon belirtileriniz var. Bir ruh sağlığı uzmanından destek almanız önerilir."
+    },
+    { 
+      "aralik": [30, 63], 
+      "yorum": "Şiddetli depresyon belirtisi.", 
+      "seviye": "siddetli",
+      "oneri": "Şiddetli depresyon belirtileriniz var. Derhal bir ruh sağlığı uzmanına başvurmanız önemlidir."
+    }
+  ],
+  "grafikTanimlari": {
+    "tip": "bar",
+    "baslik": "Depresyon Belirti Düzeyi",
+    "veriAlanlari": ["puan"]
+  }
+}
