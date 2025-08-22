@@ -166,7 +166,9 @@ export default function RaporDetayPage() {
       {/* MMPI Kapsamlı Yorumlama */}
       {testSonucu.mmpiSonuclari && (() => {
         const mmpiResults = fromPublicResults(testSonucu.mmpiSonuclari);
-        const interpretation = generateMMPIInterpretation(mmpiResults);
+        // Cinsiyet bilgisini al - burada selectedDanisan'dan alabilir ya da testSonucu'ndan
+        const gender = selectedDanisan?.cinsiyet as 'Erkek' | 'Kadin' | undefined;
+        const interpretation = generateMMPIInterpretation(mmpiResults, gender);
         return (
           <div className="space-y-6">
             {/* Geçerlik Yorumu */}
@@ -232,6 +234,56 @@ export default function RaporDetayPage() {
                 </div>
               </CardContent>
             </Card>
+
+            {/* Klinik Karşılaştırma */}
+            {interpretation.clinicalComparison && (
+              <Card>
+                <CardHeader>
+                  <CardTitle>Klinik Grup Karşılaştırması</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  <div className="space-y-4">
+                    {interpretation.clinicalComparison.mostLikelyDiagnoses.length > 0 && (
+                      <div>
+                        <h4 className="font-medium text-foreground mb-2">En Olası Tanı Grupları:</h4>
+                        <div className="space-y-2">
+                          {interpretation.clinicalComparison.mostLikelyDiagnoses.map((diagnosis, idx) => (
+                            <div key={idx} className="flex items-center gap-2">
+                              <Badge variant="outline" className="bg-primary/10">
+                                {idx + 1}
+                              </Badge>
+                              <span className="text-sm text-foreground">{diagnosis}</span>
+                            </div>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+                    
+                    <div>
+                      <h4 className="font-medium text-foreground mb-2">Tüm Grup Karşılaştırmaları:</h4>
+                      <div className="space-y-2">
+                        {interpretation.clinicalComparison.allComparisons.map((comp, idx) => (
+                          <div key={idx} className="flex justify-between items-center p-2 border rounded">
+                            <span className="text-sm font-medium">{comp.groupName}</span>
+                            <div className="flex items-center gap-2">
+                              <Badge 
+                                variant={comp.similarity >= 70 ? "default" : comp.similarity >= 50 ? "secondary" : "outline"}
+                                className="text-xs"
+                              >
+                                %{comp.similarity}
+                              </Badge>
+                              <span className="text-xs text-muted-foreground">
+                                (σ={comp.deviationScore})
+                              </span>
+                            </div>
+                          </div>
+                        ))}
+                      </div>
+                    </div>
+                  </div>
+                </CardContent>
+              </Card>
+            )}
 
             {/* Klinik Öneriler */}
             <Card>

@@ -2,6 +2,7 @@
 // Bu dosya MMPI T-skorlarını kullanarak kapsamlı klinik raporlar oluşturur
 
 import { MMPIResults, MMPIScaleResult } from './mmpiScoring';
+import { compareWithClinicalNorms, getMostLikelyDiagnoses } from './clinicalNorms';
 
 export interface MMPIInterpretation {
   validityInterpretation: string;
@@ -10,19 +11,52 @@ export interface MMPIInterpretation {
   lowScoreInterpretations: string[];
   overallSummary: string;
   clinicalRecommendations: string[];
+  clinicalComparison?: {
+    mostLikelyDiagnoses: string[];
+    allComparisons: Array<{
+      groupName: string;
+      similarity: number;
+      deviationScore: number;
+    }>;
+  };
 }
 
 /**
  * Ana MMPI yorumlama fonksiyonu
  */
-export function generateMMPIInterpretation(results: MMPIResults): MMPIInterpretation {
+export function generateMMPIInterpretation(
+  results: MMPIResults, 
+  gender?: 'Erkek' | 'Kadin'
+): MMPIInterpretation {
+  // T-skorlarını çıkar
+  const tScores: Record<string, number> = {};
+  Object.entries(results.validityScales).forEach(([key, value]) => {
+    tScores[key] = value.tScore;
+  });
+  Object.entries(results.clinicalScales).forEach(([key, value]) => {
+    tScores[key] = value.tScore;
+  });
+
+  // Klinik karşılaştırma (cinsiyet bilgisi varsa)
+  let clinicalComparison;
+  if (gender) {
+    const comparisons = compareWithClinicalNorms(tScores, gender);
+    const likelyDiagnoses = getMostLikelyDiagnoses(tScores, gender);
+    
+    clinicalComparison = {
+      mostLikelyDiagnoses: likelyDiagnoses,
+      allComparisons: comparisons
+    };
+  }
+
   return {
     validityInterpretation: interpretValidityProfile(results.validityScales),
     individualScaleInterpretations: interpretIndividualScales(results.clinicalScales, results.validityScales),
     codeTypeInterpretations: interpretCodeTypes(results.clinicalScales),
     lowScoreInterpretations: interpretLowScores(results.clinicalScales),
     overallSummary: generateOverallSummary(results),
-    clinicalRecommendations: generateClinicalRecommendations(results)
+    clinicalRecommendations: generateClinicalRecommendations(results),
+    clinicalComparison
   };
 }
 
